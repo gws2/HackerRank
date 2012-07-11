@@ -1,4 +1,4 @@
 HackerRank
 ==========
 
-HackerRank code
+HackerRank solutions
